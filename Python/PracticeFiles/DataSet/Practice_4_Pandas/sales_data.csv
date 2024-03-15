@@ -1,0 +1,14 @@
+Date,Product,Quantity,Price
+2023-12-01,ProductA,10,50
+2023-12-02,ProductB,5,75
+2023-12-05,ProductA,8,50
+2023-12-10,ProductC,12,30
+2023-12-15,ProductB,6,75
+2023-12-20,ProductA,15,50
+2023-12-25,ProductC,10,30
+2023-12-30,ProductB,8,75
+2023-12-05,ProductD,7,40
+2023-12-12,ProductA,12,50
+2023-12-18,ProductD,5,40
+2023-12-22,ProductB,10,75
+2023-12-26,ProductC,15,30
